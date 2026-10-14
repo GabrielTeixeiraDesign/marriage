@@ -1,0 +1,16 @@
+# Prompts das revisões v2
+
+Ferramenta: image_gen integrada. Cada imagem original foi usada como alvo da edição e referência de identidade.
+
+## leitura-em-casa-v2.png
+
+Edit this fictional couple's reading-at-home photograph. Preserve their identities, facial anatomy, skin tones, hair, clothes, sofa, warm light, photographic realism and landscape framing. IMPORTANT change head poses and facial expressions substantially: both are absorbed in their own open books, neither looks at the other or at the camera. Woman sitting a little more upright, chin lowered and head turned slightly toward the window, eyes clearly looking down at her pages, relaxed neutral mouth with a tiny amused smile. Remove the hand supporting her head; she holds her book naturally with both hands. Man reclines comfortably with head tipped down toward his own book, more frontal face angle, eyebrows gently drawn in concentration and relaxed closed mouth. Capture quiet candid everyday intimacy, not a posed matching romantic gaze. Natural hands with correct anatomy, realistic skin, no text or watermark. Return one edited photo.
+
+## pre-wedding-jardim-v2.png
+
+Edit this garden pre-wedding photograph of a fictional adult couple to create a clearly different candid pose and facial expression. Preserve exact character identities, facial features, skin tones, hair, ivory dress and sage linen shirt, garden pond, picnic blanket, warm light and natural photographic style. Change pose: man sits slightly behind woman and embraces her gently around waist. Woman tilts her head BACK and slightly away from him, eyes closed in spontaneous laughter, mouth open naturally showing teeth, cheeks lifted. Man lowers his head in a distinct SIDE PROFILE, eyes softly closed, kissing her temple near her hairline. Their faces must NOT repeat the original three-quarter smiling gaze at each other. A joyful caught-in-the-moment embrace with relaxed shoulders and natural believable hands. Keep landscape 3:2, realistic skin and subtle film grain, no text, no collage, no watermarks. Return one photograph.
+
+## pedido-na-praia-v2.png
+
+Edit this fictional couple's beach proposal photograph. Keep their exact identities, facial structure, hair, skin tones, clothing, kneeling proposal, ring box, ocean at dusk, lanterns and rose petals, landscape framing and realistic photographic style. Change facial acting and head positions decisively: woman bends forward slightly from the waist in astonished happiness, head more upright rather than the previous coy tilt, eyebrows raised, eyes wide and moist looking DOWN toward the ring box, one hand gently covering her parted mouth in a spontaneous surprised reaction, other hand reaching toward him. Man remains on one knee but turns his face into a clearer side profile and lifts his chin, smiling broadly with teeth showing in delighted nervous anticipation as he looks UP at her. Hands anatomically natural, keep ring box visible and held securely, no duplicated limbs. This should feel like an unposed emotional instant, distinctly unlike the restrained identical closed-mouth smiles of the original. Preserve soft balanced twilight light and realistic skin. Single photograph, no text, no watermark.
+

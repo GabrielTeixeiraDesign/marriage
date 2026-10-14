@@ -1,0 +1,12 @@
+# Abertura e close
+
+Ferramenta: image_gen integrada. Referência de identidade: casal-referencia.png.
+
+## abertura-praia.png
+
+Use case photorealistic-natural. Create a wide cinematic pre-wedding website hero photograph. Attached image is ONLY an identity anchor for the same fictional adult couple: preserve their faces, skin tones, woman shoulder-length loose dark curls, man wavy chestnut hair and light stubble. Scene: couple walking barefoot along a quiet beach at golden hour, viewed from a distant diagonal angle. Woman in flowing ivory midi dress, man in pale sage linen shirt and beige trousers rolled at ankles. Couple occupies the RIGHT THIRD, full bodies small enough to leave substantial calm empty sky and ocean on the LEFT HALF for later website title overlay. She walks one step ahead, looking toward the sea in side profile with a peaceful expression, he looks forward along the shore, their hands loosely joined. No looking at camera, no matching head tilts, no seated pose. Landscape very wide 16:9, horizon level, gentle surf and wet sand reflections, soft warm backlight, natural subdued color grade and subtle photographic grain. Documentary high-end wedding photography, believable anatomy, realistic not glossy, no text, no logos, no collage, no watermark. Composition must have generous negative space suitable for hero text.
+
+## close-preto-e-branco.png
+
+Create one original intimate black-and-white pre-wedding photograph. Use attached image only to preserve exact identity of this fictional adult couple: woman's facial features, shoulder-length dark loose curls and man's facial structure, wavy hair, light stubble and proportions. Portrait orientation 2:3. Tight close-up of both heads and shoulders, woman on right facing left in clear side profile, man on left leaning toward her, their foreheads gently touching, both eyes closed, mouths relaxed and barely smiling, quiet tenderness rather than laughter or posed looking at camera. Her one hand lightly rests on the back of his neck with correct natural anatomy. Ivory simple blouse and dark plain shirt, softly blurred old stone wall and window behind. True monochrome editorial 35mm photography, beautiful tonal range, authentic skin pores, subtle film grain, soft directional window light, no plastic skin or oversharpening. Composition should differ strongly from smiling seated portraits: close profiles, closed eyes and touching foreheads, shallow depth of field with both faces in focus. No text, logos, borders, collage or watermark.
+
