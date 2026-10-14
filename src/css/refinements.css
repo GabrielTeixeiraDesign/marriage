@@ -149,3 +149,22 @@ html.wheel-smoothing { scroll-behavior: auto; }
 @media(prefers-reduced-motion:reduce) { .faq summary, .faq summary span { transition: none; } }
 
 #form-result { overflow: hidden; line-height: 1.75; }
+
+/* Rounded photography throughout the album; the full-bleed hero stays rectangular. */
+:root { --photo-radius: 20px; }
+img:not(.hero-image) { border-radius: var(--photo-radius); }
+.intro-photo { border-radius: calc(var(--photo-radius) + 8px); }
+.intro-photo img { border-radius: calc(var(--photo-radius) - 4px); }
+.history-photos, .chapter-photo, .gallery-image-frame { border-radius: var(--photo-radius); overflow: hidden; }
+.menu-photos img { border-radius: inherit; }
+#lightbox > img { width: auto; max-width: 100%; height: auto; max-height: 76svh; margin-inline: auto; border-radius: var(--photo-radius); }
+.round-link { width: auto; min-height: 44px; height: auto; padding: 10px 18px; border-radius: 28px; font-size: 13px; }
+.back-top { font: 14px var(--sans); border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+.lightbox-controls button { font-size: 14px; }
+@media(max-width:800px) {
+ :root { --photo-radius: 16px; }
+ .round-link { font-size: 12px; padding: 9px 15px; }
+ .lightbox-controls { gap: 8px; }
+ .lightbox-controls button { padding: 8px; font-size: 12px; }
+ .lightbox-controls p { max-width: 55%; }
+}
